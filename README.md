@@ -1,4 +1,4 @@
-# csslint-teamcity [![NPM version][npm-image][npm-url]
+# csslint-teamcity [![NPM version][npm-image]][npm-url]
 > Report all those csslint warnings to TeamCity
 
 ## Usage
