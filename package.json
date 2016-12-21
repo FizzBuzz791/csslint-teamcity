@@ -1,0 +1,27 @@
+{
+  "name": "csslint-teamcity",
+  "version": "1.0.0",
+  "description": "CSS Lint reporter/formatter to help report everything to Team City",
+  "main": "index.js",
+  "dependencies": {
+    "teamcity-service-messages": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FizzBuzz791/csslint-teamcity.git"
+  },
+  "keywords": [
+    "csslint",
+    "teamcity"
+  ],
+  "author": "FizzBuzz791 <trentwilliamjones@gmail.com> (https://github.com/FizzBuzz791)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FizzBuzz791/csslint-teamcity/issues"
+  },
+  "homepage": "https://github.com/FizzBuzz791/csslint-teamcity#readme"
+}
