@@ -1,4 +1,4 @@
-# csslint-teamcity [![NPM version][npm-image]][npm-url]
+# csslint-teamcity [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
 > Report all those csslint warnings to TeamCity
 
 ## Usage
@@ -51,3 +51,5 @@ gulp csslint --teamcity
 
 [npm-url]: https://www.npmjs.com/package/csslint-teamcity
 [npm-image]: https://badge.fury.io/js/csslint-teamcity.svg
+[travis-url]: https://travis-ci.org/FizzBuzz791/csslint-teamcity
+[travis-image]: https://travis-ci.org/FizzBuzz791/csslint-teamcity.svg?branch=master
