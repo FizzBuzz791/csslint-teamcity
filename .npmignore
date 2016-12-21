@@ -1,3 +1,4 @@
 .git
 .npmignore
 node_modules
+.travis.yml

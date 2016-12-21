@@ -8,10 +8,9 @@
 		
 		if (results.messages.length > 0) {
 			results.messages.forEach(function(result) {
-				var details = '[' + (typeof result.line !== 'undefined'
-					? 'L' + result.line + ':C' + result.col
-					: 'GENERAL')
-					+ '] ' + result.message + ' ' + result.rule.desc + ' (' + result.rule.id + ')';
+				var details = '[' + 
+					(typeof result.line !== 'undefined' ? 'L' + result.line + ':C' + result.col : 'GENERAL') + 
+					'] ' + result.message + ' ' + result.rule.desc + ' (' + result.rule.id + ')';
 				
 				messages.push(tsm.testFailed({
 					name: name,
