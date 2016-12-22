@@ -1,7 +1,7 @@
 {
   "name": "csslint-teamcity",
   "version": "1.0.0",
-  "description": "CSS Lint reporter/formatter to help report everything to Team City",
+  "description": "A Gulp CSS Lint reporter/formatter to help report everything to Team City",
   "main": "index.js",
   "dependencies": {
     "teamcity-service-messages": "^0.1.8"
@@ -10,11 +10,13 @@
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
     "gulp-plumber": "^1.1.0",
+    "gulp-snyk": "0.0.3",
     "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
+    "jshint-stylish": "^2.2.1",
+    "snyk": "^1.22.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "snyk test"
   },
   "repository": {
     "type": "git",
@@ -22,7 +24,8 @@
   },
   "keywords": [
     "csslint",
-    "teamcity"
+    "teamcity",
+    "gulp"
   ],
   "author": "FizzBuzz791 <trentwilliamjones@gmail.com> (https://github.com/FizzBuzz791)",
   "license": "MIT",
