@@ -1,4 +1,4 @@
-# csslint-teamcity [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
+# csslint-teamcity [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url] [![Dependency status][david-image]][david-url]
 > Report all those csslint warnings to TeamCity
 
 ## Usage
@@ -52,6 +52,8 @@ gulp csslint --teamcity
 [npm-url]: https://www.npmjs.com/package/csslint-teamcity
 [npm-image]: https://badge.fury.io/js/csslint-teamcity.svg
 [travis-url]: https://travis-ci.org/FizzBuzz791/csslint-teamcity
-[travis-image]: https://travis-ci.org/FizzBuzz791/csslint-teamcity.svg?branch=master
+[travis-image]: https://travis-ci.org/FizzBuzz791/csslint-teamcity.svg
 [snyk-image]: https://snyk.io/test/github/fizzbuzz791/csslint-teamcity/badge.svg
 [snyk-url]: https://snyk.io/test/github/fizzbuzz791/csslint-teamcity
+[david-image]: https://david-dm.org/fizzbuzz791/csslint-teamcity.svg
+[david-url]: https://david-dm.org/fizzbuzz791/csslint-teamcity
