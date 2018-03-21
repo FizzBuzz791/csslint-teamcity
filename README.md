@@ -1,4 +1,6 @@
 # csslint-teamcity [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Known Vulnerabilities][snyk-image]][snyk-url] [![Dependency status][david-image]][david-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/FizzBuzz791/csslint-teamcity.svg)](https://greenkeeper.io/)
 > Report all those csslint warnings to TeamCity
 
 ## Usage
