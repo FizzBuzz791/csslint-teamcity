@@ -7,7 +7,7 @@
     "teamcity-service-messages": "^0.1.8"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-jshint": "^2.0.4",
     "gulp-plumber": "^1.1.0",
     "gulp-snyk": "0.1.0",
