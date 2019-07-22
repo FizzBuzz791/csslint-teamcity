@@ -13,7 +13,7 @@
     "gulp-snyk": "0.1.0",
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
-    "snyk": "^1.88.4"
+    "snyk": "^1.196.0"
   },
   "scripts": {
     "test": "snyk test"
