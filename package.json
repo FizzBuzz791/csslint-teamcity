@@ -4,7 +4,7 @@
   "description": "A Gulp CSS Lint reporter/formatter to help report everything to Team City",
   "main": "index.js",
   "dependencies": {
-    "teamcity-service-messages": "^0.1.8"
+    "teamcity-service-messages": "^0.1.11"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
